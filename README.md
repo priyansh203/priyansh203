@@ -8,7 +8,7 @@
 
 
 
-:man_technologist: I'm Priyansh. I am a college student with a passion for programming. I'm currently exploring different technologies, including C++,JAVA and Python, and enjoy learning new things.
+:man_technologist: I'm Priyansh. I am a college student with a passion for programming. I'm currently exploring different technologies, including C++, JAVA, Javascript, HTML, CSS and Python, and enjoy learning new things.
 
 
 ---
